@@ -1,3 +1,14 @@
-// TODO: Hello World
-// TODO: Test
-// TODO:  Blah 
+// Newest Issue
+x = 7
+
+
+
+for (i = 0; i < 10; i++){ 
+y = i
+}
+
+
+
+function printHello() {
+	console.log('Hello')
+}

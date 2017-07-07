@@ -1,5 +1,4 @@
 // TODO: Newest Issue
-// TODO: Create Issuse
 x = 7
 
 
